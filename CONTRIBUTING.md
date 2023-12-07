@@ -24,7 +24,7 @@ We value all contributions to the YEET Token project, and we ask that you respec
 
 ### Memes on Twitter (x)
 
-- **Create and Share Memes**: If you've got a knack for humor, we'd love to see your YEET Token-themed memes! Tweet them out with the hashtag `#YeetToken` and get the community laughing.
+- **Create and Share Memes**: If you've got a knack for humor, we'd love to see your YEET Token-themed memes! Tweet them out with the hashtag `$YEET` and get the community laughing.
 - **Engage with Our Content**: Like, retweet, and comment on our official Twitter posts. Your engagement helps us reach a broader audience.
 
 ### The Fun of Saying "YEET"
